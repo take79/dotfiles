@@ -1,0 +1,12 @@
+[alias]
+	st = status
+	rb = rebase
+	ch = checkout
+	cm = commit -m
+	gr = log --graph
+  br = branch
+  df = diff
+  ft = fetch
+[user]
+	name = takenoko
+	email = tk.hrsk79@gmail.com
